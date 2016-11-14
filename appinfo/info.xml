@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<info>
+	<id>userdeletion</id>
+	<name>UserDeletion</name>
+	<description>Allow users to delete their account</description>
+	<licence>AGPL</licence>
+	<author>Thomas Citharel</author>
+	<version>0.0.1</version>
+	<namespace>UserDeletion</namespace>
+	<category>other</category>
+	<dependencies>
+		<owncloud min-version="9.0" max-version="9.2"/>
+		<php min-version="5.4" max-version="7.0" />
+	</dependencies>
+</info>
